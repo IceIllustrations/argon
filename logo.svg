@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 520 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-13,-2703.81)">
+        <g id="Artboard5" transform="matrix(1,0,0,1.05148,-0.685305,-141.342)">
+            <rect x="13.685" y="2705.86" width="520" height="75.945" style="fill:none;"/>
+            <clipPath id="_clip1">
+                <rect x="13.685" y="2705.86" width="520" height="75.945"/>
+            </clipPath>
+            <g clip-path="url(#_clip1)">
+                <g transform="matrix(1.30957,0,0,1.06556,-2568.67,2172.67)">
+                    <text x="1970px" y="570px" style="font-family:'MADESoulmaze', 'MADE Soulmaze';font-size:96.851px;fill:#E43ABB;fill-opacity:0.99;">AR<tspan x="2126.41px " y="570px ">G</tspan>ON</text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
