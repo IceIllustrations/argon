@@ -109,6 +109,15 @@ body {
     position:relative;
 }
 
+.Portfolio:hover {
+    color:#FCE772;
+    border:1px solid #FCE772;
+    background: none;
+    padding: 5px 40px;
+    margin-top:10px;
+    position:relative;
+}
+
 .hype {
     padding: 0 .5%;
     color: #E43ABB;
