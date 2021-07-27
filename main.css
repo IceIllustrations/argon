@@ -110,8 +110,8 @@ body {
 }
 
 .Portfolio:hover {
-    color:#FCE772;
-    border:1px solid #FCE772;
+    color:#fa69ff;
+    border:1px solid #fa69ff;
     background: none;
     padding: 5px 40px;
     margin-top:10px;
@@ -154,31 +154,31 @@ body {
 }
 
 .hype:hover {
-    color: #FCE772;
+    color: #fa69ff;
 }
 
 .twitter:hover {
-    color: #FCE772;
+    color: #fa69ff;
 }
 
 .twitch:hover {
-    color: #FCE772;
+    color: #fa69ff;
 }
 
 .youtube:hover {
-    color: #FCE772;
+    color: #fa69ff;
 }
 
 .discord:hover {
-    color: #FCE772;
+    color: #fa69ff;
 }
 
 .tiktok:hover {
-    color: #FCE772;
+    color: #fa69ff;
 }
 
 .instagram:hover {
-    color: #FCE772;
+    color: #fa69ff;
 }
 
 .button {
